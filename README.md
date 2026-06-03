@@ -1,70 +1,109 @@
-# 👋 Hi, I'm Jannati
+# 🙋‍♂️ Azizul Islam
 
- Junior Frontend Developer (MERN Stack)  
- Passionate about building modern, responsive, and user-friendly web applications  
- Dhaka, Bangladesh  
+![Banner](https://raw.githubusercontent.com/azizul-dev/azizul-dev/main/assets/banner.png)
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
-I am a Junior Frontend Developer focused on building clean and responsive web applications using modern technologies like React, Next.js, and Node.js.
-
-I enjoy turning ideas into real-world projects and continuously improving my development skills.
-
----
-
-##  Tech Stack
-
-**Frontend:**  
-HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React.js, Next.js  
-
-**Backend:**  
-Node.js, Express.js  
-
-**Database:**  
-MongoDB  
-
-**Tools:**  
-Git, GitHub, Vercel, Netlify, VS Code, Postman  
+Hi, I'm **Azizul Islam**, a Full Stack MERN Developer from Bangladesh 🇧🇩  
+I love building modern, responsive, and real-world web applications using MERN stack.
 
 ---
 
-##  Featured Projects
+## 📌 Basic Info
 
-###  InventoryPro
-- Full-stack MERN inventory management system  
-- JWT authentication & role-based access  
-- CRUD operations with search & filtering  
-
-###  EduCourse Platform
-- Online learning platform UI  
-- Course listing, cart & enrollment system  
-- Responsive design with React & Redux Toolkit  
-
-###  TaskFlow AI
-- Task management web app  
-- Firebase authentication  
-- AI-assisted task breakdown features  
+- 🎓 Institute: Satkhira Polytechnic Institute  
+- 📚 Semester: CST 7th Semester  
+- 💻 Role: Full Stack MERN Developer  
+- 📍 Location: Bangladesh  
+- 🚀 Focus: React, Next.js, Node.js  
 
 ---
 
-##  Goals
+## 🔥 Current Focus
 
-- Improve full-stack development skills  
-- Build real-world scalable projects  
-- Learn advanced Next.js and backend architecture  
-- Contribute to open-source projects  
-
----
-
-##  Contact Me
-
- Email: jannati2917@gmail.com  
- LinkedIn:https://www.linkedin.com/in/jannati-jannati-0203693b4/
- GitHub: https://github.com/mdabgal  
- Portfolio: https://my-portfolio-ecru-two-25.vercel.app
+- 🚀 Learning Next.js & advanced React ecosystem  
+- 🧠 Improving problem-solving skills  
+- 🎯 Building real-world MERN projects  
+- ⚡ Clean UI & responsive design practice  
+- 📚 Backend & database improvement  
 
 ---
 
- "Keep learning, keep building, keep improving."
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 Inventra (MERN Project)
+![Inventra](https://raw.githubusercontent.com/azizul-dev/inventra/main/assets/dashboard.png)
+
+- Full-stack inventory management system  
+- Authentication (JWT)  
+- CRUD operations  
+- Role-based dashboard  
+
+**Tech:** React, Node.js, Express, MongoDB  
+
+---
+
+### 🌐 Portfolio Website
+![Portfolio](https://raw.githubusercontent.com/azizul-dev/portfolio/main/assets/home.png)
+
+- Personal developer portfolio  
+- Responsive UI  
+- Project showcase  
+
+**Tech:** Next.js, React, Tailwind CSS  
+
+---
+
+### 🎬 Movie Tracker
+![Movie App](https://raw.githubusercontent.com/azizul-dev/movie-tracker/main/assets/home.png)
+
+- Movie search & tracking app  
+- Responsive UI  
+- API integration  
+
+**Tech:** JavaScript, HTML, CSS  
+
+---
+
+## 📈 GitHub Goals (2026)
+
+- Build production-level MERN apps  
+- Improve backend architecture  
+- Learn advanced Next.js  
+- Contribute to open-source  
+- Maintain daily GitHub activity  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizul-dev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizul-dev&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 GitHub: https://github.com/azizul-dev  
+- 💼 LinkedIn: https://www.linkedin.com  
+- 📧 Email: your-email@example.com  
+
+---
+
+## 💡 Quote
+
+> "Code. Learn. Build. Improve. Repeat."
