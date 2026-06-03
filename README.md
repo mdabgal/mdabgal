@@ -42,14 +42,14 @@ I love building modern, responsive, and real-world web applications using MERN s
 
 ###  Portfolio Website
 Personal portfolio showcasing my projects, skills, developer journey, and contact information with a clean and responsive design.  
-**Live:** https://your-portfolio-link.com  
+**Live:** https://my-portfolio-ecru-two-25.vercel.app  
 **Tech:** Next.js, React, Tailwind CSS  
 
 ---
 
 ###  Pet Adoption Platform
 Interactive platform for browsing and managing pet adoption listings with wishlist and user-friendly responsive design.  
-**Live:** https://your-live-link.com  
+**Live:** https://pet-adpotion-project.vercel.app  
 **Tech:** React.js, next.js, Tailwind CSS,    
 
 
