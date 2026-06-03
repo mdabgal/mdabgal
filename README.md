@@ -1,37 +1,33 @@
-# 🙋‍♂️ Azizul Islam
+# 🙋‍♂️jannati
 
-![Banner](https://raw.githubusercontent.com/azizul-dev/azizul-dev/main/assets/banner.png)
 
----
+##  About Me
 
-## 👨‍💻 About Me
-
-Hi, I'm **Azizul Islam**, a Full Stack MERN Developer from Bangladesh 🇧🇩  
+Hi, I'm **jannati**, a Full Stack MERN Developer from Bangladesh 🇧🇩  
 I love building modern, responsive, and real-world web applications using MERN stack.
 
 ---
 
-## 📌 Basic Info
+##  Basic Info
 
-- 🎓 Institute: Satkhira Polytechnic Institute  
-- 📚 Semester: CST 7th Semester  
-- 💻 Role: Full Stack MERN Developer  
-- 📍 Location: Bangladesh  
-- 🚀 Focus: React, Next.js, Node.js  
-
----
-
-## 🔥 Current Focus
-
-- 🚀 Learning Next.js & advanced React ecosystem  
-- 🧠 Improving problem-solving skills  
-- 🎯 Building real-world MERN projects  
-- ⚡ Clean UI & responsive design practice  
-- 📚 Backend & database improvement  
+  
+-  Role: Full Stack MERN Developer  
+-  Location: Bangladesh  
+-  Focus: React, Next.js, Node.js  
 
 ---
 
-## 🛠️ Tech Stack
+##  Current Focus
+
+ Learning Next.js & advanced React ecosystem  
+ Improving problem-solving skills  
+ Building real-world MERN projects  
+ Clean UI & responsive design practice  
+-  Backend & database improvement  
+
+---
+
+##  Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
@@ -42,22 +38,12 @@ I love building modern, responsive, and real-world web applications using MERN s
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📦 Inventra (MERN Project)
-![Inventra](https://raw.githubusercontent.com/azizul-dev/inventra/main/assets/dashboard.png)
 
-- Full-stack inventory management system  
-- Authentication (JWT)  
-- CRUD operations  
-- Role-based dashboard  
 
-**Tech:** React, Node.js, Express, MongoDB  
+###  Portfolio Website
 
----
-
-### 🌐 Portfolio Website
-![Portfolio](https://raw.githubusercontent.com/azizul-dev/portfolio/main/assets/home.png)
 
 - Personal developer portfolio  
 - Responsive UI  
@@ -67,8 +53,8 @@ I love building modern, responsive, and real-world web applications using MERN s
 
 ---
 
-### 🎬 Movie Tracker
-![Movie App](https://raw.githubusercontent.com/azizul-dev/movie-tracker/main/assets/home.png)
+###  Movie Tracker
+
 
 - Movie search & tracking app  
 - Responsive UI  
@@ -78,7 +64,7 @@ I love building modern, responsive, and real-world web applications using MERN s
 
 ---
 
-## 📈 GitHub Goals (2026)
+##  GitHub Goals (2026)
 
 - Build production-level MERN apps  
 - Improve backend architecture  
@@ -88,22 +74,15 @@ I love building modern, responsive, and real-world web applications using MERN s
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizul-dev&show_icons=true&theme=radical)
+## Connect With Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizul-dev&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect With Me
-
-- 🔗 GitHub: https://github.com/azizul-dev  
-- 💼 LinkedIn: https://www.linkedin.com  
-- 📧 Email: your-email@example.com  
+-  GitHub: https://github.com/mdabgal
+-  LinkedIn:https://www.linkedin.com/in/jannati-jannati-0203693b4
+-  Email: jannati2917@gmail.com
 
 ---
 
-## 💡 Quote
+##  Quote
 
 > "Code. Learn. Build. Improve. Repeat."
