@@ -3,7 +3,7 @@
 
 ##  About Me
 
-Hi, I'm **jannati**, a Full Stack MERN Developer from Bangladesh 🇧🇩  
+Hi, I'm **jannati**, a Junior Frontend Developer (MERN Stack) from Bangladesh 🇧🇩  
 I love building modern, responsive, and real-world web applications using MERN stack.
 
 ---
