@@ -40,29 +40,18 @@ I love building modern, responsive, and real-world web applications using MERN s
 
 ##  Featured Projects
 
-
-
 ###  Portfolio Website
-
-
-- Personal developer portfolio  
-- Responsive UI  
-- Project showcase  
-
+Personal portfolio showcasing my projects, skills, developer journey, and contact information with a clean and responsive design.  
+**Live:** https://your-portfolio-link.com  
 **Tech:** Next.js, React, Tailwind CSS  
 
 ---
 
-###  Movie Tracker
+###  Pet Adoption Platform
+Interactive platform for browsing and managing pet adoption listings with wishlist and user-friendly responsive design.  
+**Live:** https://your-live-link.com  
+**Tech:** React.js, next.js, Tailwind CSS,    
 
-
-- Movie search & tracking app  
-- Responsive UI  
-- API integration  
-
-**Tech:** JavaScript, HTML, CSS  
-
----
 
 ##  GitHub Goals (2026)
 
