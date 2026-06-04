@@ -40,7 +40,7 @@ I love building modern, responsive, and real-world web applications using MERN s
 
 ##  Featured Projects
 
-# Pet Adoption Platform
+### Pet Adoption Platform
 
 A responsive web application that helps users explore pets and adoption opportunities.
 
@@ -63,17 +63,9 @@ React.js, JavaScript, Tailwind CSS, API Integration
 ##  Purpose
 Practice of real-world frontend development skills.
 
-##  GitHub Goals (2026)
-
-- Build production-level MERN apps  
-- Improve backend architecture  
-- Learn advanced Next.js  
-- Contribute to open-source  
-- Maintain daily GitHub activity  
-
 ---
 
-#  Portfolio Website
+###  Portfolio Website
 
 A modern personal portfolio website to showcase skills and projects.
 
@@ -103,7 +95,7 @@ Professional personal branding.
 
 ---
 
-#  Authentication App
+###  Authentication App
 
 Secure login and signup system with protected routes.
 
@@ -125,5 +117,15 @@ Next.js, MongoDB, JWT, Tailwind CSS
 ##  Purpose
 Learning authentication & backend integration.
 ##  Quote
+
+
+##  GitHub Goals (2026)
+
+- Build production-level MERN apps  
+- Improve backend architecture  
+- Learn advanced Next.js  
+- Contribute to open-source  
+- Maintain daily GitHub activity  
+
 
 > "Code. Learn. Build. Improve. Repeat."
