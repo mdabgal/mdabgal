@@ -40,18 +40,28 @@ I love building modern, responsive, and real-world web applications using MERN s
 
 ##  Featured Projects
 
-###  Portfolio Website
-Personal portfolio showcasing my projects, skills, developer journey, and contact information with a clean and responsive design.  
-**Live:** https://my-portfolio-ecru-two-25.vercel.app  
-**Tech:** Next.js, React, Tailwind CSS  
+# Pet Adoption Platform
 
----
+A responsive web application that helps users explore pets and adoption opportunities.
 
-###  Pet Adoption Platform
-Interactive platform for browsing and managing pet adoption listings with wishlist and user-friendly responsive design.  
-**Live:** https://pet-adpotion-project.vercel.app  
-**Tech:** React.js, next.js, Tailwind CSS,    
+##  Live Demo
+https://b13-as9-pet-adoption-client.vercel.app/
 
+##  GitHub Repo
+https://github.com/mdabgal/B13-AS9-Pet-Adoption-Client
+
+##  Features
+- Browse available pets
+- View pet details
+- Adoption system UI
+- Responsive design
+- Modern user experience
+
+##  Tech Stack
+React.js, JavaScript, Tailwind CSS, API Integration
+
+##  Purpose
+Practice of real-world frontend development skills.
 
 ##  GitHub Goals (2026)
 
@@ -63,6 +73,27 @@ Interactive platform for browsing and managing pet adoption listings with wishli
 
 ---
 
+#  Portfolio Website
+
+A modern personal portfolio website to showcase skills and projects.
+
+##  Live Demo
+https://my-portfolio-ecru-two-25.vercel.app/
+
+##  GitHub Repo
+https://github.com/mdabgal/my-portfolio
+
+##  Features
+- Projects showcase
+- Skills section
+- Contact form
+- Responsive design
+
+##  Tech Stack
+Next.js, Tailwind CSS
+
+##  Purpose
+Professional personal branding.
 
 ## Connect With Me
 
@@ -72,6 +103,27 @@ Interactive platform for browsing and managing pet adoption listings with wishli
 
 ---
 
+#  Authentication App
+
+Secure login and signup system with protected routes.
+
+##  Live Demo
+https://as-b13-online-learning.vercel.app
+
+##  GitHub Repo
+https://github.com/mdabgal/as-b13-online-learning
+
+##  Features
+- User authentication
+- JWT protected routes
+- MongoDB database
+- Login system
+
+##  Tech Stack
+Next.js, MongoDB, JWT, Tailwind CSS
+
+##  Purpose
+Learning authentication & backend integration.
 ##  Quote
 
 > "Code. Learn. Build. Improve. Repeat."
